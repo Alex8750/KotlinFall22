@@ -1,0 +1,7 @@
+
+fun main(){
+    var age = 260
+    var income = 100000.0
+    var name = "Joe Mahoney"
+    println("My name is " + (name) + ", " + "my age is "+ + (age) + "and I hope to earn " + (income) + "per year.")
+}
